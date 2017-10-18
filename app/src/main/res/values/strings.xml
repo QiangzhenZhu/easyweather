@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">EasyWeather</string>
+    <string name="sun_rise">日出：</string>
+    <string name="sun_set">日落：</string>
+    <string name="rain_pro">降雨概率：</string>
+    <string name="humiditiy">相对湿度：</string>
+    <string name="wind_speed">风速：</string>
+    <string name="feel_tem">体感温度：</string>
+    <string name="rain_fall">降雨量：</string>
+    <string name="pressure">气压：</string>
+    <string name="visibility">能见度：</string>
+    <string name="uv">紫外线指数：</string>
+    <string name="airNum">空气质量指数：</string>
+    <string name="airLevel">空气质量：</string>
+    <string name="select_city">选择城市</string>
+    <string name="add_city">添加城市</string>
+    <string name="delete_city">删除城市</string>
+</resources>
